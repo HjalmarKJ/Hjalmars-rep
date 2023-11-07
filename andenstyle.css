@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(36, 220, 19);
+  }
+  
+  /* overskrift h1 design */
+  h1{
+  font-style: bold;
+  font-size: 60px;
+  }
+  .sol{background-color: rgb(234, 47, 19);border: 3px;border-radius: 30%;
+    text-align: center;
+  }
+  
+  
+ 
+  br{display: block;margin: 10px 0;}
+  
+  .boxFloatRighe{
+  float: right;
+  background-color: rgb(200,100,100);
+  width: 40%;
+  height: 40%;
+  overflow: hidden;
+  font-size: 40;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  

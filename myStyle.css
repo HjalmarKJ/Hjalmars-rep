@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(91, 146, 229);
+  background-color: rgb(19, 99, 220);
 }
 
 /* overskrift h1 design */
@@ -7,11 +7,14 @@ h1{
 font-style: bold;
 font-size: 60px;
 }
-
-pre{
-  background-color: lightgray;
+.sol{background-color: rgb(234, 47, 19);border: 3px;border-radius: 30%;
+  text-align: center;
 }
 
+pre{
+  background-color: rgb(131, 53, 53);
+}
+br{display: block;margin: 10px 0;}
 
 .boxFloatRighe{
 float: right;
