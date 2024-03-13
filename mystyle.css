@@ -11,14 +11,15 @@ body {
 
                             /* Header/Blog Title */
 .header {                   /* . betyder det er en class */
-  padding: 30px;
+  padding: 2px;
   text-align: center;
-  background: rgb(80,160,200);
+  background: rgb(12, 163, 194);
+  ;
 }
 
                             /* sætter h1 i header klassen til fontsize 50px*/
 .header h1 {
-  font-size: 50px;
+  font-size: 80px;
 }
 
 /* Style the top navigation bar */

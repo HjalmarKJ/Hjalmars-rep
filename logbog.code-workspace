@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Downloads/InformatikRysensteen_kode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "logbog"
+	}
+}
